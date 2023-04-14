@@ -16,7 +16,7 @@
   - [ ] **使用 markdown 更新此教學進度**
 - [ ] git [1-1]
   - [ ] 認識 git workflow
-  - [ ]**熟悉 add, commit, push, pull, rebase, checkout, branch, restore, reset, merge**
+  - [ ] **熟悉 add, commit, push, pull, rebase, checkout, branch, restore, reset, merge**
   - [ ] **git ignore 用途以及使用**
   - [ ] **開分支、合併分支**
   - [ ] git commit message 規範
