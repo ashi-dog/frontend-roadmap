@@ -20,10 +20,18 @@
   - [ ] **git ignore 用途以及使用**
   - [ ] **開分支、合併分支**
   - [ ] git commit message 規範
+  - [ ] git 各種檔案狀態理解
+  - [ ] git 常見狀況排除問題 [optional]
 - [ ] 認識 SSH
   - [ ] **使用 SSH 連接 github**
 - [ ] 了解前端與後端具體區別 [1-2]
 - [ ] 了解發出一個 request 到接收 response 過程 [1-2]
+- [ ] 環境安裝
+  - [ ] powershell
+  - [ ] ssh 設定完成
+  - [ ] vscode 安裝
+  - [ ] sourcetree 安裝
+  - [ ] 安裝 node.js(先確認電腦是否已安裝)
 - [ ] 基礎 javascript [1-3]
   - [ ] **let, const, var, object, array**
   - [ ] **loop, if, switch**

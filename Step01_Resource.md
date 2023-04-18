@@ -10,11 +10,13 @@
 
 [[GIT101] Git 超新手入門 - HackMD](https://hackmd.io/@ouR5x-oVSMy4d8R5uFsKNg/H17CtjWUu)
 
+[Git 新手重點整理](https://medium.com/@flyotlin/%E6%96%B0%E6%89%8B%E4%B9%9F%E8%83%BD%E6%87%82%E7%9A%84git%E6%95%99%E5%AD%B8-c5dc0639dd9)
+
 ### optional
 
 [Git 單元劇 - 為你自己學 Git | 高見龍](https://gitbook.tw/videos)
 
-## 1-2 comand line & basic concepts
+## 1-2 command line & basic concepts
 
 [[CS101] 初心者的計概與 coding 火球術](https://lidemy.com/p/cs101-coding)
 
