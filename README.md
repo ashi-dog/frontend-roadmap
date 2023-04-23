@@ -60,5 +60,62 @@
 
 ## Step 02
 
-製作中 ...
-敬啟期待
+- [ ] 基礎 html [2-1]
+  - [ ] **認識 html 結構**
+  - [ ] **基礎 tag**
+  - [ ] **能理解 semantic tag (語意)**
+  - [ ] 基礎 SEO 概念
+- [ ] CSS [2-2]
+  - [ ] **inline, block, inline-block**
+  - [ ] **box-model**
+  - [ ] **熟悉 position 全部屬性**
+  - [ ] **熟悉 CSS selector**
+  - [ ] **熟悉 CSS selector weight**
+  - [ ] **熟悉 flex-box**
+  - [ ] 認識 grid
+  - [ ] `:hover`,`:before`,`:after` 用法
+  - [ ] class 命名習慣
+  - [ ] **homework07**
+- [ ] javascript 前端操控 [2-3]
+  - [ ] **操控 dom 與更改 style**
+  - [ ] **event listener**
+  - [ ] **捕獲與冒泡**
+  - [ ] **事件代理**
+  - [ ] **preventDefault 與 stopePropagation**
+  - [ ] **homework08**
+- [ ] 使用 chrome devtool debug
+- [ ] advanced javascript [2-3]
+  - [ ] **fetch, promise, async / await**
+  - [ ] **try / catch, 錯誤處理**
+  - [ ] **homework09**
+  - [ ] **熟悉 ajax**
+  - [ ] **homework10**
+  - [ ] closure, event loop, scope, hoisting, this
+
+---
+
+## Step 03
+
+- [ ] tailwind
+- [ ] Sass
+- [ ] **homework11**
+- [ ] **React**
+  - [ ] JSX, Component
+  - [ ] State V.S props
+  - [ ] styling css in react 三種方式
+  - [ ] **homework12**
+  - [ ] react-router
+  - [ ] lifecycle
+  - [ ] all react hooks
+    - [ ] useState, useEffect
+    - [ ] useContext, useRef, useReducer
+    - [ ] useCallback, useMemo
+    - [ ] custom hooks
+  - [ ] **homework13**
+  - [ ] redux 狀態管理
+    - [ ] redux middleware
+  - [ ] **homework14**
+- [ ] **Next.js**
+  - [ ] **homework15**
+- [ ] **typescript**
+  - [ ] **homework16**
